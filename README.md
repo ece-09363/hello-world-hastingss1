@@ -6,6 +6,6 @@
 1. Post a selfie
 ![alt text][selfie]
 
-[selfie]: IMG_20180129_125611.jpg
+[selfie]: me.jpg
 
-2. Tell me something interesting about yourself
+2. I am a certified soccer referee and I have been the treasurer of the Rowan IEEE Student Branch for the past year. I also enjoy going skiing and traveling.
